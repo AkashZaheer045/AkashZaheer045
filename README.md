@@ -140,6 +140,8 @@ I believe great backend engineering is invisible — infrastructure that just wo
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-%2300B388?style=for-the-badge&logo=vercel&logoColor=white)](https://protofolio-inky.vercel.app/)
+
 [![Profile Views](https://visitcount.itsvg.in/api?id=AkashZaheer045&icon=6&color=6)](https://visitcount.itsvg.in)
 
 _Open to Backend, Full-Stack, and DevOps opportunities — let's build something great together!_
