@@ -7,9 +7,8 @@
 _Building scalable, maintainable systems — one clean API at a time._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akash-zaheer/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashzaheer045@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashzaheer786@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_akash_zaheer)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Muhammad.akash45)
 
 </div>
 
@@ -120,11 +119,30 @@ I bring a full-picture mindset to backend engineering — from schema design and
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashZaheer045&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<!-- Animated typing headline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=📊+Stats+that+speak+louder+than+a+CV+😎;🔥+Streak+mode%3A+ON+(please+don't+break+it);💻+Code+every+day%2C+cry+occasionally;🚀+Building+cool+stuff+since+forever" alt="Typing SVG" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashZaheer045&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashZaheer045&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- Stats + Languages side by side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AkashZaheer045&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashZaheer045&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Fun streak callout -->
+
+> 🔥 _"My GitHub streak is like my coffee intake — I'm not proud of the dependency, but here we are."_
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashZaheer045&theme=tokyonight&hide_border=true&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)
 
 </div>
 
@@ -136,13 +154,9 @@ I bring a full-picture mindset to backend engineering — from schema design and
 
 I believe great backend engineering is invisible — infrastructure that just works, APIs that make sense, and systems that survive real-world load without heroics. My goal is always to build something I'd be proud to maintain a year from now.
 
----
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-Visit-%2300B388?style=flat-square)](https://protofolio-inky.vercel.app/)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=AkashZaheer045&icon=6&color=6)](https://visitcount.itsvg.in)
 
 _Open to Backend, Full-Stack, and DevOps opportunities — let's build something great together!_
 
