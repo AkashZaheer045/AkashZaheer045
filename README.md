@@ -120,7 +120,7 @@ I bring a full-picture mindset to backend engineering — from schema design and
 <div align="center">
 
 <!-- Animated typing headline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=📊+Stats+that+speak+louder+than+a+CV+😎;🔥+Streak+mode%3A+ON+(please+don't+break+it);💻+Code+every+day%2C+cry+occasionally;🚀+Building+cool+stuff+since+forever" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Stats+that+speak+louder+than+a+CV;Streak+mode+ON+(please+don't+break+it);I+code%2C+therefore+I+am;Building+cool+stuff+since+forever" alt="Typing SVG" />
 
 <br/>
 
@@ -128,10 +128,10 @@ I bring a full-picture mindset to backend engineering — from schema design and
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AkashZaheer045&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkashZaheer045&theme=tokyonight" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashZaheer045&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashZaheer045&theme=tokyonight" alt="Top Languages"/>
     </td>
   </tr>
 </table>
