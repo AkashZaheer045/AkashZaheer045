@@ -142,7 +142,7 @@ I bring a full-picture mindset to backend engineering — from schema design and
 
 > 🔥 _"My GitHub streak is like my coffee intake — I'm not proud of the dependency, but here we are."_
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkashZaheer045&theme=tokyonight&hide_border=true&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AkashZaheer045&theme=tokyonight&hide_border=true&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)
 
 </div>
 
