@@ -1,56 +1,141 @@
-# 💫 About Me:
-👋Hi there! I'm a **Backend Developer** focused on building scalable APIs and clean backend architectures using **Node.js**, **Sequelize**, and **Mongoose**  
-- 🧠 Specialized in database design with **MongoDB**, **PostgreSQL**, and advanced **ORM techniques** (associations, scopes, hooks)  
-- 🔧 Experience in **DevOps** with tools like **AWS**, **Azure**, **Docker**, **Vercel**, and **CI/CD** for smooth deployments  
-- 🌐 Worked with frontend tools like **React**, **Next.js**, and have solid experience in **NestJS** and **.NET**  
-- 🤖 Built an **AI chatbot** using **Pinecone**, **LLMs (LLaMA3)**, and semantic search with intelligent fallback logic  
-- 🧩 Key projects include a bakery eCommerce backend, a full-stack social media platform, and a smart behavioral assistant  
-- 🚀 Thrive on **modular design**, **automation**, and building maintainable, scalable systems  
-- 🛠️ Passionate about solving real-world problems with **clean code** and purposeful backend logic  
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad.akash45) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akash_zaheer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-akash-zaheer/) 
+<!-- ============================================== -->
+<!--  HEADER                                          -->
+<!-- ============================================== -->
 
-# 💻 Tech Stack:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+<h1 align="center">Muhammad Akash Zaheer</h1>
+<p align="center">
+  <b>Backend Engineer</b> · Node.js · NestJS · .NET · Scalable APIs · Cloud
+</p>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LLMs](https://img.shields.io/badge/-LLMs-800080?style=flat&logo=openai&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkashZaheer045&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkashZaheer045&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashZaheer045&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-> *“I thrive in complexity, but I live for simplicity.”*  
-> <sub>– A backend craftsman with a love for clean, scalable logic</sub>
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-akash-zaheer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AkashZaheer045">
+    <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20OSS-2EA44F?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkashZaheer045&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ============================================== -->
+<!--  ABOUT                                           -->
+<!-- ============================================== -->
+
+### About
+
+I build the systems users never see but always depend on — REST and GraphQL APIs, multi-tenant database schemas, auth flows, real-time pipelines, and the deploy infrastructure that ties it all together.
+
+My day-to-day is **Node.js / NestJS** on **PostgreSQL or MongoDB**, but I've shipped production code in **.NET** and integrated **LLMs** into real products. I care about three things: code that the next engineer can read, schemas that won't haunt you in six months, and deploys that don't require Slack threads at 2 AM.
+
+**Currently:** Open to backend contract work and contributing to OSS projects in the Node.js / TypeScript ecosystem.
+
+---
+
+<!-- ============================================== -->
+<!--  FEATURED WORK                                   -->
+<!-- ============================================== -->
+
+### Featured Work
+
+> _Tip: replace the placeholders below with your real repo links and 1–2 sentence outcomes. Outcomes (numbers, scale, impact) matter more than feature lists._
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 Bakery eCommerce Backend</h4>
+      <p>Multi-vendor commerce API with inventory sync, Stripe checkout, and role-based admin tooling. Built for &lt;200ms p95 on catalog reads.</p>
+      <p>
+        <code>Node.js</code> <code>PostgreSQL</code> <code>Sequelize</code> <code>Redis</code>
+      </p>
+      <a href="https://github.com/AkashZaheer045/REPO_NAME">→ Repo</a> · <a href="#">Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI Behavioral Assistant</h4>
+      <p>RAG chatbot using LLaMA 3 + Pinecone for semantic retrieval, with deterministic fallback logic when confidence drops below threshold.</p>
+      <p>
+        <code>LLaMA 3</code> <code>Pinecone</code> <code>Node.js</code> <code>Python</code>
+      </p>
+      <a href="https://github.com/AkashZaheer045/REPO_NAME">→ Repo</a> · <a href="#">Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💬 Social Media Platform</h4>
+      <p>Full-stack social app with real-time feed, Socket.IO chat, notifications, and media uploads to S3.</p>
+      <p>
+        <code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.IO</code>
+      </p>
+      <a href="https://github.com/AkashZaheer045/REPO_NAME">→ Repo</a> · <a href="#">Live</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📦 [Your 4th Project]</h4>
+      <p>One sentence on what it does, one on the interesting technical decision.</p>
+      <p>
+        <code>NestJS</code> <code>Docker</code> <code>AWS</code>
+      </p>
+      <a href="#">→ Repo</a> · <a href="#">Live</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ============================================== -->
+<!--  TECH STACK                                      -->
+<!-- ============================================== -->
+
+### Tech Stack
+
+| Layer | Tools |
+|---|---|
+| **Languages** | TypeScript · JavaScript · C# · Python |
+| **Backend** | Node.js · Express · NestJS · .NET |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis |
+| **ORM / ODM** | Sequelize · Mongoose · Prisma |
+| **Frontend** | React · Next.js |
+| **Cloud & DevOps** | AWS · Azure · Docker · Kubernetes · Vercel · CI/CD |
+| **Realtime & Auth** | Socket.IO · JWT · OAuth |
+| **AI / ML** | LLaMA 3 · Pinecone · OpenAI API · TensorFlow |
+
+---
+
+<!-- ============================================== -->
+<!--  WHAT I'M GOOD AT                                -->
+<!-- ============================================== -->
+
+### What I Bring to a Codebase
+
+- **Database design that scales** — normalized schemas, thoughtful indexes, ORM associations / scopes / hooks done right
+- **Modular architecture** — clear service boundaries, dependency injection, testable units
+- **AI integration** — RAG pipelines, vector search, LLM fallback logic that actually handles edge cases
+- **DevOps fluency** — Dockerized services, CI/CD pipelines, deploys to AWS and Azure
+- **Clean handoffs** — documentation, sensible commit history, no surprises for the next dev
+
+---
+
+<!-- ============================================== -->
+<!--  STATS                                           -->
+<!-- ============================================== -->
+
+### GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AkashZaheer045&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashZaheer045&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+---
+
+<!-- ============================================== -->
+<!--  CONTACT                                         -->
+<!-- ============================================== -->
+
+### Let's Work Together
+
+I'm available for **backend contract work**, **architecture consulting**, and **open source contributions** in the Node.js / TypeScript space.
+
+📬 Reach me on [LinkedIn](https://linkedin.com/in/muhammad-akash-zaheer/) or email — I usually reply within a business day.
