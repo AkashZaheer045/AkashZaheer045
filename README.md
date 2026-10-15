@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://akashzaheer.dev"><img src="https://img.shields.io/badge/Portfolio-akashzaheer.dev-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/muhammad-akash-zaheer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammadakashzaheer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:akashzaheer786@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
@@ -46,7 +46,7 @@ complete, shipped products.
 | 🔗 **Third-Party Integrations** | Connectors, webhook pipelines, external APIs & automation |
 | 📱 **Mobile APIs** | Backend & API contracts for Flutter apps (OpenAPI) |
 
-📬 **Reach me:** [akashzaheer.dev](https://akashzaheer.dev) · [LinkedIn](https://linkedin.com/in/muhammad-akash-zaheer/) · akashzaheer786@gmail.com
+📬 **Reach me:** [akashzaheer.dev](https://akashzaheer.dev) · [LinkedIn](https://www.linkedin.com/in/muhammadakashzaheer/) · akashzaheer786@gmail.com
 
 ---
 
