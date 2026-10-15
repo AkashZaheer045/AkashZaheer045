@@ -1,10 +1,18 @@
 <h1 align="center">Hi, I'm Muhammad Akash Zaheer 👋</h1>
-<h3 align="center">Product Engineer | Full-Stack & Agentic AI · TypeScript · Node.js · React / Next.js</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Product+Engineer+%40+DialogX;Full-Stack+%26+Agentic+AI+Developer;TypeScript+%7C+Node.js+%7C+React+%2F+Next.js;Building+real+products+with+AI" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://akashzaheer.dev"><img src="https://img.shields.io/badge/Portfolio-akashzaheer.dev-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/muhammad-akash-zaheer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:akashzaheer786@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="https://facebook.com/Muhammad.akash45"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/_akash_zaheer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AkashZaheer045&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -16,8 +24,8 @@ apps, APIs, cloud services, and **AI-powered products**. Currently at **DialogX*
 across **web, backend, mobile, integrations, and agentic AI** — turning business problems into
 complete, shipped products.
 
-- 🔭 **Now:** building AI-powered SaaS products (AI phone receptionist platform, multi-tenant systems, integrations)
-- 🧠 **Focus:** LLMs, RAG, AI agents & **MCP (Model Context Protocol)**, alongside solid full-stack & cloud engineering
+- 🔭 **Now:** building AI-powered SaaS (AI phone receptionist platform, multi-tenant systems, integrations)
+- 🧠 **Focus:** LLMs, RAG, AI agents & **MCP (Model Context Protocol)**, on top of solid full-stack & cloud engineering
 - 🧰 **Core:** TypeScript · Node.js · React / Next.js · PostgreSQL · Docker · multi-tenant architecture
 - 🌱 **Learning:** Agentic AI, Kubernetes, modern full-stack (tRPC, Drizzle, TanStack, offline-first)
 - 💬 **Ask me about:** backend architecture, APIs, payments, auth, and building real products with AI
@@ -26,7 +34,7 @@ complete, shipped products.
 
 ## 🚀 What I Can Help You Build
 
-> Open to freelance / contract work and collaboration. If your team or community needs a developer who can own features end-to-end:
+> Open to freelance / contract work & collaboration — a developer who owns features end-to-end:
 
 | Service | What you get |
 |---|---|
@@ -39,6 +47,17 @@ complete, shipped products.
 | 📱 **Mobile APIs** | Backend & API contracts for Flutter apps (OpenAPI) |
 
 📬 **Reach me:** [akashzaheer.dev](https://akashzaheer.dev) · [LinkedIn](https://linkedin.com/in/muhammad-akash-zaheer/) · akashzaheer786@gmail.com
+
+---
+
+## 🧩 Selected Work
+
+- 🤖 **AI Phone Receptionist Platform** — multi-tenant SMB communications with AI voice agents, integrations & mobile (Next.js, PostgreSQL, tRPC, Flutter)
+- 🛡️ **Enterprise GRC SaaS** — multi-tenant compliance platform with an AI assistant (Node/Express, React, FastAPI + pgvector)
+- 📊 **Business Accounting Platform** — modern offline-first rewrite (React 19, TanStack, Drizzle, PostgreSQL RLS, PowerSync)
+- 🛒 **E-Commerce & Real-Time Apps** — storefronts, dashboards, payments (Stripe) and Socket.IO messaging
+
+> 📌 See more in my pinned repositories below.
 
 ---
 
@@ -56,6 +75,7 @@ complete, shipped products.
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat&logo=trpc&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 
 **Frontend**
@@ -93,24 +113,27 @@ complete, shipped products.
 
 ---
 
-## 🧩 Selected Work
-
-- 🤖 **AI Phone Receptionist Platform** — multi-tenant SMB communications with AI voice agents, integrations & mobile (Next.js, PostgreSQL, tRPC, Flutter)
-- 🛡️ **Enterprise GRC SaaS** — multi-tenant compliance platform with an AI assistant (Node/Express, React, FastAPI + pgvector)
-- 📊 **Business Accounting Platform** — modern offline-first rewrite (React 19, TanStack, Drizzle, PostgreSQL RLS, PowerSync)
-- 🛒 **E-Commerce & Real-Time Apps** — storefronts, dashboards, payments (Stripe) and Socket.IO messaging
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashZaheer045&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashZaheer045&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashZaheer045&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkashZaheer045&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashZaheer045&theme=tokyonight&hide_border=false" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashZaheer045&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashZaheer045&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkashZaheer045&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5" />
 </p>
 
 ---
 
 <p align="center"><i>“I thrive in complexity, but I build for simplicity.”</i></p>
 <p align="center">💡 Open to freelance, contract & collaboration — let's build something great.</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AkashZaheer045&icon=0&color=0" /></a>
+</p>
