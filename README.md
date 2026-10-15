@@ -122,18 +122,8 @@ complete, shipped products.
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashZaheer045&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashZaheer045&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkashZaheer045&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5" />
-</p>
 
 ---
 
 <p align="center"><i>“I thrive in complexity, but I build for simplicity.”</i></p>
 <p align="center">💡 Open to freelance, contract & collaboration — let's build something great.</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AkashZaheer045&icon=0&color=0" /></a>
-</p>
